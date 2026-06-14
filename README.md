@@ -39,15 +39,6 @@ and designing luck-driven game loops — with a growing focus on online & multip
 
 <br>
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=barisorman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946" height="160" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barisorman&theme=radical&hide_border=true&background=0d1117&ring=e63946&fire=e63946" height="160" alt="streak"/>
-
-</div>
-
 <br>
 
 ## 📫 Contact
